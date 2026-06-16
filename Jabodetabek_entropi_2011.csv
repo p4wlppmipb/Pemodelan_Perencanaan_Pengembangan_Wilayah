@@ -1,0 +1,157 @@
+flow,origin,destination,distance,pdrb_origin,pdrb_destination
+5919203,Bekasi,Kota Bekasi,29.732,164539,43946
+4482449,Bekasi,Jakarta Timur,37.062,164539,198226
+2729966,Bekasi,Jakarta Selatan,49.398,164539,258049
+2672575,Bekasi,Jakarta Utara,51.472,164539,216350
+2257559,Bekasi,Jakarta Barat,61.407,164539,194610
+1649545,Bekasi,Jakarta Pusat,53.602,164539,276998
+1798068,Bekasi,Kota Tangerang,73.739,164539,71864
+2925214,Bekasi,Kota Depok,48.859,164539,28413
+1489654,Bekasi,Kota Tangerang Selatan,64.733,164539,33325
+9683231,Bekasi,Bogor,52.367,164539,98379
+2161108,Bekasi,Kota Bogor,61.93,164539,19944
+1485330,Bekasi,Tangerang,94.704,164539,62022
+10945261,Bogor,Kota Depok,11.218,98379,28413
+5729654,Bogor,Kota Bogor,16.033,98379,19944
+4886414,Bogor,Jakarta Utara,45.136,98379,216350
+8934566,Bogor,Jakarta Timur,40.818,98379,198226
+10448992,Bogor,Jakarta Selatan,31.206,98379,258049
+3690695,Bogor,Kota Tangerang,48.973,98379,71864
+2992741,Bogor,Kota Tangerang Selatan,28.74,98379,33325
+4091646,Bogor,Jakarta Pusat,39.862,98379,276998
+7031064,Bogor,Kota Bekasi,39.212,98379,43946
+5325169,Bogor,Jakarta Barat,41.2,98379,194610
+2984055,Bogor,Tangerang,56.396,98379,62022
+8258483,Bogor,Bekasi,51.254,98379,164539
+4182942,Jakarta Barat,Jakarta Pusat,11.803,194610,276998
+5547729,Jakarta Barat,Kota Tangerang,15.946,194610,71864
+4651180,Jakarta Barat,Jakarta Selatan,13.876,194610,258049
+5489023,Jakarta Barat,Jakarta Utara,23.216,194610,216350
+2421506,Jakarta Barat,Kota Tangerang Selatan,21.699,194610,33325
+2414478,Jakarta Barat,Tangerang,36.404,194610,62022
+4465472,Jakarta Barat,Jakarta Timur,29.699,194610,198226
+2376478,Jakarta Barat,Kota Depok,31.619,194610,28413
+2727698,Jakarta Barat,Kota Bekasi,34.349,194610,43946
+1750823,Jakarta Barat,Bekasi,62.556,194610,164539
+4842359,Jakarta Barat,Bogor,42.269,194610,98379
+856868,Jakarta Barat,Kota Bogor,54.217,194610,19944
+3183045,Jakarta Pusat,Jakarta Barat,11.283,276998,194610
+3659815,Jakarta Pusat,Jakarta Utara,12.786,276998,216350
+3363549,Jakarta Pusat,Jakarta Selatan,10.681,276998,258049
+1664531,Jakarta Pusat,Kota Tangerang,22.165,276998,71864
+4623701,Jakarta Pusat,Jakarta Timur,20.296,276998,198226
+1646511,Jakarta Pusat,Kota Bekasi,24.946,276998,43946
+1645465,Jakarta Pusat,Kota Depok,29.143,276998,28413
+917137,Jakarta Pusat,Kota Tangerang Selatan,27.346,276998,33325
+914475,Jakarta Pusat,Tangerang,44.436,276998,62022
+2831279,Jakarta Pusat,Bogor,39.45,276998,98379
+973485,Jakarta Pusat,Bekasi,54.155,276998,164539
+450718,Jakarta Pusat,Kota Bogor,53.488,276998,19944
+4159429,Jakarta Selatan,Jakarta Pusat,11.104,258049,276998
+4376833,Jakarta Selatan,Jakarta Barat,14.745,258049,194610
+3293944,Jakarta Selatan,Jakarta Utara,21.19,258049,216350
+3057910,Jakarta Selatan,Kota Bekasi,24.224,258049,43946
+5923870,Jakarta Selatan,Kota Depok,20.26,258049,28413
+1744855,Jakarta Selatan,Kota Tangerang Selatan,18.539,258049,33325
+6720306,Jakarta Selatan,Jakarta Timur,21.901,258049,198226
+1992313,Jakarta Selatan,Bekasi,50.517,258049,164539
+8941180,Jakarta Selatan,Bogor,31.126,258049,98379
+2774312,Jakarta Selatan,Kota Tangerang,27.568,258049,71864
+6048190,Jakarta Selatan,Kota Bogor,43.074,258049,19944
+1739791,Jakarta Selatan,Tangerang,46.988,258049,62022
+7109699,Jakarta Timur,Kota Bekasi,10.532,198226,43946
+7459560,Jakarta Timur,Jakarta Utara,16.319,198226,216350
+5651736,Jakarta Timur,Jakarta Pusat,18.742,198226,276998
+6642709,Jakarta Timur,Jakarta Selatan,18.893,198226,258049
+3233494,Jakarta Timur,Bekasi,39.742,198226,164539
+4153560,Jakarta Timur,Jakarta Barat,29.588,198226,194610
+5675730,Jakarta Timur,Kota Depok,32.053,198226,28413
+2591649,Jakarta Timur,Kota Tangerang,40.318,198226,71864
+1149553,Jakarta Timur,Kota Bogor,54.189,198226,19944
+7557011,Jakarta Timur,Bogor,41.651,198226,98379
+1747160,Jakarta Timur,Kota Tangerang Selatan,37.103,198226,33325
+1742089,Jakarta Timur,Tangerang,62.741,198226,62022
+4570589,Jakarta Utara,Jakarta Pusat,14.512,216350,276998
+7621389,Jakarta Utara,Jakarta Timur,16.388,216350,198226
+3579327,Jakarta Utara,Kota Bekasi,22.433,216350,43946
+3326544,Jakarta Utara,Jakarta Selatan,21.731,216350,258049
+5216378,Jakarta Utara,Jakarta Barat,24.15,216350,194610
+2355236,Jakarta Utara,Kota Tangerang,32.876,216350,71864
+2368747,Jakarta Utara,Kota Depok,36.225,216350,28413
+1969734,Jakarta Utara,Bekasi,51.643,216350,164539
+4222677,Jakarta Utara,Bogor,45.886,216350,98379
+713000,Jakarta Utara,Kota Bogor,59.205,216350,19944
+1462083,Jakarta Utara,Kota Tangerang Selatan,38.851,216350,33325
+1457840,Jakarta Utara,Tangerang,57.721,216350,62022
+8731070,Kota Bekasi,Jakarta Timur,8.408,43946,198226
+4302258,Kota Bekasi,Jakarta Utara,22.819,43946,216350
+5243677,Kota Bekasi,Bekasi,30.273,43946,164539
+3711908,Kota Bekasi,Jakarta Selatan,24.122,43946,258049
+2471571,Kota Bekasi,Jakarta Pusat,25.493,43946,276998
+2410047,Kota Bekasi,Kota Depok,33.497,43946,28413
+3115772,Kota Bekasi,Jakarta Barat,35.743,43946,194610
+1567174,Kota Bekasi,Kota Tangerang Selatan,41.639,43946,33325
+2061087,Kota Bekasi,Kota Tangerang,47.069,43946,71864
+7303210,Kota Bekasi,Bogor,38.929,43946,98379
+1366560,Kota Bekasi,Kota Bogor,50.976,43946,19944
+1562626,Kota Bekasi,Tangerang,69.427,43946,62022
+5260762,Kota Bogor,Bogor,17.115,19944,98379
+2228678,Kota Bogor,Kota Depok,25.325,19944,28413
+757550,Kota Bogor,Jakarta Utara,59.865,19944,216350
+708274,Kota Bogor,Kota Tangerang Selatan,37.752,19944,33325
+1247879,Kota Bogor,Jakarta Timur,54.401,19944,198226
+1299774,Kota Bogor,Jakarta Selatan,43.47,19944,258049
+865190,Kota Bogor,Jakarta Barat,53.106,19944,194610
+1207970,Kota Bogor,Kota Bekasi,52.796,19944,43946
+766838,Kota Bogor,Kota Tangerang,59.078,19944,71864
+1692297,Kota Bogor,Bekasi,62.539,19944,164539
+598055,Kota Bogor,Jakarta Pusat,53.338,19944,276998
+706219,Kota Bogor,Tangerang,61.411,19944,62022
+12361462,Kota Depok,Bogor,11.429,28413,98379
+7818596,Kota Depok,Jakarta Selatan,20.334,28413,258049
+3095743,Kota Depok,Jakarta Utara,35.271,28413,216350
+1659777,Kota Depok,Kota Tangerang,39.078,28413,71864
+2741390,Kota Depok,Kota Bogor,25.467,28413,19944
+2685639,Kota Depok,Jakarta Pusat,28.99,28413,276998
+2951576,Kota Depok,Jakarta Barat,30.861,28413,194610
+7578598,Kota Depok,Jakarta Timur,33.813,28413,198226
+2620453,Kota Depok,Kota Bekasi,33.588,28413,43946
+1212649,Kota Depok,Kota Tangerang Selatan,21.374,28413,33325
+1209130,Kota Depok,Tangerang,52.086,28413,62022
+2817613,Kota Depok,Bekasi,48.579,28413,164539
+2395723,Kota Tangerang,Jakarta Pusat,23.172,71864,276998
+4360844,Kota Tangerang,Kota Tangerang Selatan,23.083,71864,33325
+4348188,Kota Tangerang,Tangerang,25.818,71864,62022
+6076043,Kota Tangerang,Jakarta Barat,15.869,71864,194610
+3228971,Kota Tangerang,Jakarta Selatan,25.837,71864,258049
+2714352,Kota Tangerang,Jakarta Utara,33.198,71864,216350
+1463642,Kota Tangerang,Kota Depok,39.684,71864,28413
+3051607,Kota Tangerang,Jakarta Timur,42.301,71864,198226
+3675679,Kota Tangerang,Bogor,49.168,71864,98379
+1976208,Kota Tangerang,Kota Bekasi,46.951,71864,43946
+1527268,Kota Tangerang,Bekasi,75.519,71864,164539
+831787,Kota Tangerang,Kota Bogor,57.745,71864,19944
+5138565,Kota Tangerang Selatan,Kota Tangerang,23.79,33325,71864
+2392981,Kota Tangerang Selatan,Jakarta Selatan,18.573,33325,258049
+3125088,Kota Tangerang Selatan,Jakarta Barat,21.142,33325,194610
+1555429,Kota Tangerang Selatan,Jakarta Pusat,26.43,33325,276998
+1260061,Kota Tangerang Selatan,Kota Depok,20.359,33325,28413
+905278,Kota Tangerang Selatan,Kota Bogor,37.545,33325,19944
+1303617,Kota Tangerang Selatan,Tangerang,33.993,33325,62022
+1985523,Kota Tangerang Selatan,Jakarta Utara,37.032,33325,216350
+1770620,Kota Tangerang Selatan,Kota Bekasi,41.994,33325,43946
+3512122,Kota Tangerang Selatan,Bogor,28.424,33325,98379
+2424133,Kota Tangerang Selatan,Jakarta Timur,39.67,33325,198226
+1490959,Kota Tangerang Selatan,Bekasi,65.135,33325,164539
+4683265,Tangerang,Kota Tangerang,26.597,62022,71864
+2848191,Tangerang,Jakarta Barat,35.769,62022,194610
+1417611,Tangerang,Jakarta Pusat,44.96,62022,276998
+1809597,Tangerang,Jakarta Utara,56.374,62022,216350
+2180952,Tangerang,Jakarta Selatan,46.092,62022,258049
+445473,Tangerang,Kota Tangerang Selatan,34.333,62022,33325
+2209344,Tangerang,Jakarta Timur,63.622,62022,198226
+1613735,Tangerang,Kota Bekasi,68.272,62022,43946
+3200932,Tangerang,Bogor,55.758,62022,98379
+1358853,Tangerang,Bekasi,95.802,62022,164539
+1148414,Tangerang,Kota Depok,50.956,62022,28413
+825066,Tangerang,Kota Bogor,61.563,62022,19944
