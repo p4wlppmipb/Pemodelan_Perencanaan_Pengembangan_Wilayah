@@ -1,0 +1,5 @@
+bobot_spasial,silhouette_score,davies_bouldin_index,calinski_harabasz_score,jumlah_fragmen_spasial,rerata_std_dev_atribut
+0.5,0.0929,1.9525,58.789,90,0.7013
+1.0,0.2316,1.6875,85.7052,81,0.7613
+2.0,0.2466,1.5858,100.5443,77,0.7596
+4.0,0.278,1.6356,133.8546,75,0.8473
